@@ -1,6 +1,6 @@
 ## Heyo👋
 
-My name is Theodore Bongolan, but usually go by Theo!
+My name is Theodore Bongolan, but usually go by Theo!< br / > 
 I'm currently a San Diego State University Student pursuing a bachelors in Computer Science (FINAL SEMESTER).
 
 I program things I guess...
