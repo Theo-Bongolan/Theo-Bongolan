@@ -1,4 +1,9 @@
-## Hi there 👋
+## Heyo👋
+
+My name is Theodore Bongolan, but usually go by Theo!
+I'm currently a San Diego State University Student pursuing a bachelors in Computer Science (FINAL SEMESTER).
+
+I program things I guess...
 
 <!--
 **Theo-Bongolan/Theo-Bongolan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
